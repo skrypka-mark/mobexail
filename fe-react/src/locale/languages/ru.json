@@ -1,0 +1,12 @@
+{
+    "appBar": {
+        "title": "Mobexail",
+        "aboutUs": "О нас",
+        "exchange": "Обмен",
+        "repair": "Ремонт",
+        "contacts": "Контакты"
+    },
+    "navigation": {
+        "firstStep": "Магазин электроники"
+    }
+}

@@ -1,0 +1,5 @@
+export const SET_CATALOG = 'SET_CATALOG';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const SET_CATEGORY = 'SET_CATEGORY';
+export const SET_CURRENT_PRODUCT = 'SET_CURRENT_PRODUCT';
+export const SET_NAVIGATION = 'SET_NAVIGATION';
